@@ -1,2 +1,2 @@
 # WeakTimerHandler
-To  relove NSTimer memory promble
+To  relove NSTimer memory problem
